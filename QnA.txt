@@ -6,3 +6,4 @@
 -[Abu Maruf] https://github.com/AbuMaruf/learning-git.git
 -[Rezwan Hossain] https://github.com/rrezwan7/learning-git
 -[Pallab Saha] https://github.com/pallab-saha/learning-git
+-[Atik Rahman] https://github.com/Atiqur-Rahman/learnings-git.git
